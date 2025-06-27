@@ -19,6 +19,7 @@ This is a **digital resume web application** built with React, showcasing the pr
 ###  Clone or Download
 
 git clone https://github.com/yourusername/digital-resume.git
+
 cd digital-resume
 
 
