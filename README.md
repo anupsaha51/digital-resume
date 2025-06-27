@@ -32,4 +32,4 @@ npm start
 Then open your browser and go to http://localhost:3000 to view your digital resume.
 
 ## Screenshot
-![App Screenshot](images/screenshot.png)
+![App Screenshot](public/screenshot.png)
