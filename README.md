@@ -30,3 +30,5 @@ npm install
 npm start
 
 Then open your browser and go to http://localhost:3000 to view your digital resume.
+
+![App Screenshot](images/screenshot.png)
